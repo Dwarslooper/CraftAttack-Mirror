@@ -1,0 +1,7 @@
+name: CraftAttack
+version: '${project.version}'
+main: com.dwarslooper.cafake.Main
+api-version: 1.19
+authors: [ Dwarslooper ]
+description: A plugin that makes a server look like CraftAttack
+website: https://dwarslooper.com
